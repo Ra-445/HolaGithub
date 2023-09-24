@@ -1,2 +1,2 @@
-console.log("hello it's me")
-console.log("Que talj?")
+console.log("hi it's me")
+console.log("Que tal?")
